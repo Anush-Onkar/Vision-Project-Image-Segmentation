@@ -13,7 +13,7 @@ R2U-net has been implemented in the task as per the paper https://arxiv.org/ftp/
 ### Task3
 
 Solution for the Task3 are in the scripts main_task3, evalaution,Atten_R2_Unet_model and Metrics which includes training, evaluation metrics.
-An Aattemp has been made to implement Attention R2U-net for purpose trying to improve the model R2Unet implemented in the paper https://arxiv.org/ftp/arxiv/papers/1802/1802.06955.pdf on CityScape dataset.
+An attempt has been made to implement Attention R2U-net for purpose of improving the R2Unet model accuracy which is implemented in the paper https://arxiv.org/ftp/arxiv/papers/1802/1802.06955.pdf on CityScape dataset.
 
 
 
