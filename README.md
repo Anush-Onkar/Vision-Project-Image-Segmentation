@@ -4,10 +4,12 @@
 
 ### Task1
 Solution of the Task1 is in the file Vision_task1_solution.ipynb, we have used VGG-16 pretrained model for the task1 on PascalVoc 2012 Dataset. 
+As the saved model file is nearly 700MB, it can be accessed throught this link https://drive.google.com/file/d/1RVHcDmMeGHqxEPdq1MLx45yj7dYoAfHU/view?usp=sharing
 
 ### Task2
 Solution for the Task2 are in the scripts main_task2, evalaution,R2_Unet_model and Metrics which includes training, evaluation metrics.
 R2U-net has been implemented in the task as per the paper https://arxiv.org/ftp/arxiv/papers/1802/1802.06955.pdf on CityScape dataset.
+
 
 
 ### Task3
